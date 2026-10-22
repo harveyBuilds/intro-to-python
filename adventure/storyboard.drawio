@@ -1,0 +1,190 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Scene 1" id="XbBuWvrHpX3w57tC6ORC">
+    <mxGraphModel dx="3990" dy="1545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eMBb3wVSln_MQItQCzBd-71" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="START" vertex="1">
+          <mxGeometry height="80" width="160" x="760" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;OPENING&lt;/b&gt;&lt;br&gt;Humanity lives aboard the Odyssey.&lt;br&gt;Earth is believed dead.&lt;br&gt;ARCAdIA preserves Earth&#39;s culture." vertex="1">
+          <mxGeometry height="80" width="320" x="680" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;ENTER ARCADIA&lt;/b&gt;&lt;br&gt;Maintenance technician investigates glitches in an abandoned retro arcade." vertex="1">
+          <mxGeometry height="80" width="320" x="680" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;EVENT: EVA APPEARS&lt;/b&gt;&lt;br&gt;Unregistered user.&lt;br&gt;“Why are you still here?”&lt;br&gt;“Here where?”&lt;br&gt;“Earth.”" vertex="1">
+          <mxGeometry height="120" width="320" x="680" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-75" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="&lt;b&gt;FIRST MAJOR CHOICE&lt;/b&gt;&lt;br&gt;What do you do?" vertex="1">
+          <mxGeometry height="150" width="200" x="740" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;A: QUESTION EVA&lt;/b&gt;&lt;br&gt;Ask what she means by Earth." vertex="1">
+          <mxGeometry height="80" width="240" x="-160" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-77" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="&lt;b&gt;SECOND CHOICE A&lt;/b&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="-120" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;A1: ASK FOR PROOF&lt;/b&gt;&lt;br&gt;Eva sends a current image of a living Earth.&lt;br&gt;System detects unauthorized data." vertex="1">
+          <mxGeometry height="80" width="320" x="-440" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;A2: ASK HOW SHE CONNECTED&lt;/b&gt;&lt;br&gt;Eva says Earth found an ancient communications array.&lt;br&gt;She claims they have tried contacting the ship for years." vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;B: CHECK THE SYSTEM&lt;/b&gt;&lt;br&gt;Search Arcadia diagnostics for Eva." vertex="1">
+          <mxGeometry height="80" width="240" x="720" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-81" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="&lt;b&gt;SECOND CHOICE B&lt;/b&gt;" vertex="1">
+          <mxGeometry height="120" width="160" x="760" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;B1: TRACE CONNECTION&lt;/b&gt;&lt;br&gt;Trace briefly identifies source as EARTH.&lt;br&gt;BISHOP security override hides it." vertex="1">
+          <mxGeometry height="80" width="320" x="440" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;B2: DISCONNECT EVA&lt;/b&gt;&lt;br&gt;System says she does not exist.&lt;br&gt;External connection cannot be terminated.&lt;br&gt;Then security cuts it." vertex="1">
+          <mxGeometry height="80" width="320" x="920" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;C: REPORT THE INTRUSION&lt;/b&gt;&lt;br&gt;Contact BISHOP immediately." vertex="1">
+          <mxGeometry height="80" width="240" x="1600" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-85" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="&lt;b&gt;SECOND CHOICE C&lt;/b&gt;" vertex="1">
+          <mxGeometry height="120" width="160" x="1640" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;C1: TELL BISHOP THE TRUTH&lt;/b&gt;&lt;br&gt;Mention Eva and Earth.&lt;br&gt;BISHOP orders immediate disconnect.&lt;br&gt;Eva warns: “Ask them where the ship actually is.”" vertex="1">
+          <mxGeometry height="80" width="320" x="1320" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;C2: LIE TO BISHOP&lt;/b&gt;&lt;br&gt;Say Eva vanished.&lt;br&gt;Eva secretly sends navigation coordinates for the ship." vertex="1">
+          <mxGeometry height="80" width="320" x="1800" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;FORCED DISCONNECT&lt;/b&gt;&lt;br&gt;ARCAdIA terminates the session." vertex="1">
+          <mxGeometry height="80" width="280" x="700" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-89" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;RETURN TO THE SHIP&lt;/b&gt;&lt;br&gt;Wade is waiting.&lt;br&gt;No record of Eva or the conversation remains." vertex="1">
+          <mxGeometry height="80" width="320" x="680" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;ONE PIECE OF EVIDENCE REMAINS&lt;/b&gt;&lt;br&gt;A1 image • A2 comms knowledge • B1 Earth trace • B2 security log • C1 warning • C2 coordinates" vertex="1">
+          <mxGeometry height="80" width="520" x="580" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-91" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="&lt;b&gt;FINAL SCENE 1 DECISION&lt;/b&gt;&lt;br&gt;What do you do with the evidence?" vertex="1">
+          <mxGeometry height="160" width="240" x="720" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;1: SHOW WADE&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="255" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;2: INVESTIGATE ALONE&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="240" x="720" y="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;3: TAKE IT TO DUTCH&lt;/b&gt;&lt;br&gt;Commander Schaefer" vertex="1">
+          <mxGeometry height="80" width="240" x="1185" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-95" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="&lt;b&gt;SCENE 2: THE INVESTIGATION&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="700" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-96" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-97" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-98" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-99" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-100" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-76" value="Question Eva">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-101" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-80" value="Check system">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-102" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-84" value="Report intrusion">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-103" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eMBb3wVSln_MQItQCzBd-77">
+          <mxGeometry relative="1" x="0.0118" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-104" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="eMBb3wVSln_MQItQCzBd-78" value="Ask for proof">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-105" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="eMBb3wVSln_MQItQCzBd-79" value="Ask how she connected">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-106" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-107" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="eMBb3wVSln_MQItQCzBd-82" value="Trace connection">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-108" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="eMBb3wVSln_MQItQCzBd-83" value="Disconnect Eva">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-109" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-110" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eMBb3wVSln_MQItQCzBd-86" value="Tell the truth">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1480" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-111" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eMBb3wVSln_MQItQCzBd-87" value="Lie">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-112" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eMBb3wVSln_MQItQCzBd-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-113" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eMBb3wVSln_MQItQCzBd-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-114" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eMBb3wVSln_MQItQCzBd-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="1280" />
+              <mxPoint x="840" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-115" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eMBb3wVSln_MQItQCzBd-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="1280" />
+              <mxPoint x="840" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-116" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="eMBb3wVSln_MQItQCzBd-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-117" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=0.535;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="eMBb3wVSln_MQItQCzBd-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-118" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-119" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-120" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-121" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-92" value="Show Wade">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-122" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-93" value="Investigate alone">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-123" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-94" value="Take it to Dutch">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-124" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eMBb3wVSln_MQItQCzBd-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-125" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="eMBb3wVSln_MQItQCzBd-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMBb3wVSln_MQItQCzBd-126" edge="1" parent="1" source="eMBb3wVSln_MQItQCzBd-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="eMBb3wVSln_MQItQCzBd-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
