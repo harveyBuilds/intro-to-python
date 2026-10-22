@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="XbBuWvrHpX3w57tC6ORC">
+    <mxGraphModel dx="989" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rB2S1Kt0Erh-PyqkujoT-5" edge="1" parent="1" source="rB2S1Kt0Erh-PyqkujoT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="rB2S1Kt0Erh-PyqkujoT-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rB2S1Kt0Erh-PyqkujoT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="START" vertex="1">
+          <mxGeometry height="50" width="120" x="380" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rB2S1Kt0Erh-PyqkujoT-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="User receives message:&lt;br&gt;&#39;I am on Earth. Your ship has never left.&#39;" vertex="1">
+          <mxGeometry height="125" width="150" x="365" y="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
